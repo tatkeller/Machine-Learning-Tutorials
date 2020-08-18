@@ -11,3 +11,7 @@ My name is Tate Keller, I'm a Master's student at Cornell Tech studying Informat
 ## Prerequisites
 
 You may want to have a basic background in Math or Statistics, but I will try my best to explain things at a very simple level to make it understandable to all audiences. Additionally, as of now, I plan to make this entirely in Python. Perhaps there will be some R if I go over informatics type topics.. but I'm not there yet. Nonetheless, a basic understanding of programming will be helpful, but I will comment and annotate everything to the best of my ability.
+
+## Notes
+
+I set the language of each jupyter notebook to correspond to the primary programming language used in the notebook, since jupyter notebook can be vague (Markdown? Python? R? Julia?).
