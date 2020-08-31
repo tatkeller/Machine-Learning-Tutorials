@@ -8,6 +8,8 @@ Hello world! This repository is a WIP; soon to be a somewhat interactive Machine
 
 My name is Tate Keller, I'm a Master's student at Cornell Tech studying Information Science, with a concentration in Health Technology. Previously, I studied at Case Western Reserve University, where I majored in Systems Biology and minored in Computer Science. 
 
+Generally, I have a passion for Math and Statistics, and its applications in tech today. Specifically, I think its applications in BioTech (specifically bioinformatics/genomics) and Transportation Tech (autonomous vehicles etc) are super exciting. I'm actively seeking a full time job in either space - specifically looking for Machine Learning Engineering / Data Science positions. 
+
 ## Prerequisites
 
 You may want to have a basic background in Math or Statistics, but I will try my best to explain things at a very simple level to make it understandable to all audiences. Additionally, as of now, I plan to make this entirely in Python. Perhaps there will be some R if I go over informatics type topics.. but I'm not there yet. Nonetheless, a basic understanding of programming will be helpful, but I will comment and annotate everything to the best of my ability.
