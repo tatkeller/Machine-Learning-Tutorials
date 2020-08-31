@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Hello world! This repository is a WIP; soon to be a somewhat interactive Machine Learning educational resource. Hopefully this will be a helpful resource for people beginning to learn Machine Learning/ AI/ Data Science concepts, or anyone who just wants to review. I know that when I was first learning about Machine Learning etc., I was pretty lost in terminology and felt some of the typical gate-keeping that is unfortunately sometimes associated with the Computer Science/ Software Dev community. There have been some great resources that I have found very helpful along the way, and I have been lucky enough to also have some experiences that have furthered my Machine Learning knowledge - so I figured compiling what I've learned into one place may be helpful, not just for me, but for others too. 
+Hello! This repository is a work in progress; soon to be a somewhat interactive Machine Learning educational resource. Hopefully this will be a helpful resource for people beginning to learn Machine Learning/ AI/ Data Science concepts, or anyone who just wants to review. I know that when I was first learning about Machine Learning etc., I was pretty lost in terminology and would've loved a single resource for all my questions. There have been some great resources that I have found very helpful along the way, and I have been lucky enough to also have some experiences that have furthered my Machine Learning knowledge - so I figured compiling what I've learned into one place may be helpful, not just for me, but for others too. 
 
 ### Who am I?
 
